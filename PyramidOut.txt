@@ -1,0 +1,100 @@
+
+C:\Users\linma\Desktop\src>java Pyramid
+
+Please enter the height of thePyramid to continue-> 0
+Here is your Pyramid with height 0
+
+
+Please enter the height of thePyramid to continue-> 1
+Here is your Pyramid with height 1
+
+1
+
+Please enter the height of thePyramid to continue-> 2
+Here is your Pyramid with height 2
+
+  1
+1 2 1
+
+Please enter the height of thePyramid to continue-> 3
+Here is your Pyramid with height 3
+
+    1
+  1 2 1
+1 2 3 2 1
+
+Please enter the height of thePyramid to continue-> 4
+Here is your Pyramid with height 4
+
+      1
+    1 2 1
+  1 2 3 2 1
+1 2 3 4 3 2 1
+
+Please enter the height of thePyramid to continue-> 9
+Here is your Pyramid with height 9
+
+                1
+              1 2 1
+            1 2 3 2 1
+          1 2 3 4 3 2 1
+        1 2 3 4 5 4 3 2 1
+      1 2 3 4 5 6 5 4 3 2 1
+    1 2 3 4 5 6 7 6 5 4 3 2 1
+  1 2 3 4 5 6 7 8 7 6 5 4 3 2 1
+1 2 3 4 5 6 7 8 9 8 7 6 5 4 3 2 1
+
+Please enter the height of thePyramid to continue-> 15
+Here is your Pyramid with height 15
+
+                                           1
+                                        1  2  1
+                                     1  2  3  2  1
+                                  1  2  3  4  3  2  1
+                               1  2  3  4  5  4  3  2  1
+                            1  2  3  4  5  6  5  4  3  2  1
+                         1  2  3  4  5  6  7  6  5  4  3  2  1
+                      1  2  3  4  5  6  7  8  7  6  5  4  3  2  1
+                   1  2  3  4  5  6  7  8  9  8  7  6  5  4  3  2  1
+                1  2  3  4  5  6  7  8  9 10  9  8  7  6  5  4  3  2  1
+             1  2  3  4  5  6  7  8  9 10 11 10  9  8  7  6  5  4  3  2  1
+          1  2  3  4  5  6  7  8  9 10 11 12 11 10  9  8  7  6  5  4  3  2  1
+       1  2  3  4  5  6  7  8  9 10 11 12 13 12 11 10  9  8  7  6  5  4  3  2  1
+    1  2  3  4  5  6  7  8  9 10 11 12 13 14 13 12 11 10  9  8  7  6  5  4  3  2  1
+ 1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 14 13 12 11 10  9  8  7  6  5  4  3  2  1
+
+Please enter the height of thePyramid to continue-> -2
+Here is your Pyramid with height -2
+
+1 2 1
+  1
+
+Please enter the height of thePyramid to continue-> -6
+Here is your Pyramid with height -6
+
+1 2 3 4 5 6 5 4 3 2 1
+  1 2 3 4 5 4 3 2 1
+    1 2 3 4 3 2 1
+      1 2 3 2 1
+        1 2 1
+          1
+
+Please enter the height of thePyramid to continue-> -12
+Here is your Pyramid with height -12
+
+ 1  2  3  4  5  6  7  8  9 10 11 12 11 10  9  8  7  6  5  4  3  2  1
+    1  2  3  4  5  6  7  8  9 10 11 10  9  8  7  6  5  4  3  2  1
+       1  2  3  4  5  6  7  8  9 10  9  8  7  6  5  4  3  2  1
+          1  2  3  4  5  6  7  8  9  8  7  6  5  4  3  2  1
+             1  2  3  4  5  6  7  8  7  6  5  4  3  2  1
+                1  2  3  4  5  6  7  6  5  4  3  2  1
+                   1  2  3  4  5  6  5  4  3  2  1
+                      1  2  3  4  5  4  3  2  1
+                         1  2  3  4  3  2  1
+                            1  2  3  2  1
+                               1  2  1
+                                  1
+
+Please enter the height of thePyramid to continue-> ^Z
+
+Program halted by user

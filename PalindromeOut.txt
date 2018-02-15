@@ -1,0 +1,34 @@
+C:\Users\linma\Desktop\src>java Palindrome
+Please tell me if palindrome is case sensitive or not
+no
+capitalization check is off!
+Please enter your string
+Asa
+asa is a palindrome
+Please enter your string
+asdasadsa
+asdasadsa is a palindrome
+Please enter your string
+dsadsadas
+dsadsadas is not a palindrome
+Please enter your string
+dfsgfdsdfs
+dfsgfdsdfs is not a palindrome
+Please enter your string
+asdsa
+asdsa is a palindrome
+Please enter your string
+asasasa
+asasasa is a palindrome
+Please enter your string
+jinvfvnij
+jinvfvnij is a palindrome
+Please enter your string
+jlsjghdfdds
+jlsjghdfdds is not a palindrome
+Please enter your string
+nifdsdfin
+nifdsdfin is a palindrome
+Please enter your string
+^Z
+program halted
